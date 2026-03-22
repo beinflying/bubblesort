@@ -49,3 +49,9 @@ htmlcov/
 
 # Logs
 *.log
+
+# C
+*.o
+*.out
+*.exe
+tests/test_bubble_sort
